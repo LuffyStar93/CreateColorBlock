@@ -1,0 +1,8 @@
+.newdiv{
+	background: red;
+	height: 50px;
+	width: 50px;
+	display: inline-block;
+	border:1px solid black;
+	margin: 2px;
+}
